@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bmicalculater/static/css/main.e6c13ad2.css",
+    "main.js": "/bmicalculater/static/js/main.1c137f8b.js",
+    "index.html": "/bmicalculater/index.html",
+    "main.e6c13ad2.css.map": "/bmicalculater/static/css/main.e6c13ad2.css.map",
+    "main.1c137f8b.js.map": "/bmicalculater/static/js/main.1c137f8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1c137f8b.js"
+  ]
+}
